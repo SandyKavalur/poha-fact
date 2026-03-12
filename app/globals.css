@@ -32,8 +32,9 @@ html:not([data-scroll="0"]) .ttty {
 .bg-header {
     background: linear-gradient(120.3deg, #D5F2FF 31.56%, rgba(255, 255, 255, 0) 94.83%);
 }
+/* background: linear-gradient(120.3deg, #D5F2FF 36.56%, rgba(255, 255, 255, 0) 122.83%); */
 .bg-navbar {
-    background: linear-gradient(120.3deg, #D5F2FF 36.56%, rgba(255, 255, 255, 0) 122.83%);
+    background: #F6EFE2;
 }
 
 .w-270px {
@@ -89,4 +90,8 @@ html:not([data-scroll="0"]) .ttty {
 
 .socialBg {
     background: rgba(255, 255, 255, 0.2);
+}
+
+h1, h2, h3, h4 {
+    color: #422426;
 }
